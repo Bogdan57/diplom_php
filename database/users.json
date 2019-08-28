@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Иван Иванов",
+        "login": "test@test.ru",
+        "password": "12345",
+        "role": "manager"
+    },
+    {
+        "id": 2,
+        "name": "Василий Быстров",
+        "login": "mail@mail.ru",
+        "password": "qwerty",
+        "role": "translator"
+    },
+    {
+        "id": 3,
+        "name": "Мария Петрова",
+        "login": "info@yandex.ru",
+        "password": "abcde",
+        "role": "translator"
+    },
+    {
+        "id": 4,
+        "name": "Елена Сидорова",
+        "login": "pochta@gmail.com",
+        "password": "mhd5nd",
+        "role": "translator"
+    }
+]
