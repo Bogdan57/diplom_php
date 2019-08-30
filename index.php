@@ -25,7 +25,7 @@
     }
     ?>
     <footer class="<?=($user->isLogined()) ? 'footer footer-inner' : 'footer' ?>">
-        <p>© Copyright, 2019</p>
+        <p>© Дмитрий Портнов, BPHP-4, 2019</p>
     </footer>
 </body>
 </html>
