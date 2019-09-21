@@ -1,6 +1,6 @@
 <?php 
 
-class TasksList 
+class Tasks
 {
     private $tasks;
     private $filter;

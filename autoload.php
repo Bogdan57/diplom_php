@@ -1,8 +1,8 @@
 <?php
 spl_autoload_register(
-    function($class_name) 
+    function($class) 
     {
-        include 'classes/' . $class_name . '.php';
+        include 'classes/' . $class . '.php';
     }
 );
 ?>

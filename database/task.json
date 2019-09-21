@@ -1,0 +1,86 @@
+    
+[
+    {
+        "id": 4,
+        "status": "resolved",
+        "client": "ООО Братья Запашные",
+        "translator": "volnov@mail.ru",
+        "ref_lang": "fr",
+        "trans_lang": {
+            "2": "de"
+        },
+        "deadline": "2019-09-14",
+        "original_text_preview": "Ma famille n’est pas grande: moi, ma femme et ma fille.\r\nMa femme s’appelle Anne.\r\nElle a trente et un an.\r\nElle travaille comme professeur dans une université.\r\nElle aime bien apprendre des langues étrangères.\r\nAnne parle anglais et, en plus, elle apprend l’espagnol.\r\nMa fille s’appelle Natalie.\r\nNatalie a sept ans.\r\nElle me ressemble beaucoup.\r\nMa fille aime dessiner et écouter la musique.\r\nElle va à l’école et elle fait ses études très bien.\r\nJ’aime beaucoup ma famille.",
+        "original_text": "4.json"
+    },
+    [
+        {
+            "id": 1,
+            "status": "new",
+            "client": "ООО «Роман и командные практики»",
+            "executor": "mail@mail.ru",
+            "original_lang": "ru",
+            "translation_lang": {
+                "2": "de"
+            },
+            "deadline": "2019-08-22",
+            "original_text_preview": "Товарищи! дальнейшее развитие различных форм деятельности позволяет оценить значение соответствующий условий активизации. Таким образом постоянный количественный рост и сфера нашей активности в значительной степени обуславливает создание позиций, занимаемых участниками в отношении поставленных задач. С другой стороны начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие",
+            "original_text": "1.json"
+        },
+        {
+            "id": 2,
+            "status": "rejected",
+            "client": "ООО «Пирамида»",
+            "executor": "info@yandex.ru",
+            "original_lang": "ru",
+            "translation_lang": {
+                "1": "en",
+                "4": "it"
+            },
+            "deadline": "2019-08-20",
+            "original_text_preview": "Электрический транспорт постепенно завоевывает все большую популярность по всей Земле. Вслед за легковыми автомобилями и грузовиками оснастить электродвигателем решили водный транспорт. \r\n\r\nВ Китае впервые в истории на воду был спущен электрический грузовой корабль. Строительством судна занималась компания Guangzhou Shipyard International Company Ltd, на верфи которой судно с водоизмещением 2000 тонн и было представл",
+            "original_text": "2.json"
+        },
+        {
+            "id": 3,
+            "status": "done",
+            "client": "ИП Разгуляев Г.В.",
+            "executor": "mail@mail.ru",
+            "original_lang": "ru",
+            "translation_lang": {
+                "2": "de",
+                "3": "fr",
+                "5": "es"
+            },
+            "deadline": "2019-08-25",
+            "original_text_preview": "Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Рыбными о деревни маленький. Океана семантика продолжил заглавных, залетают о напоивший коварных. Несколько семь деревни, моей! Своих последний, грустный текст.Последний продолжил, свой запятых свой рукопись lorem меня то коварных имени курсивных. Повстречался, языкового страну грустный последний рукопись, на берегу жизни знаках ков",
+            "original_text": "3.json"
+        },
+        {
+            "id": 4,
+            "status": "resolved",
+            "client": "International ltd",
+            "executor": "pochta@gmail.com",
+            "original_lang": "en",
+            "translation_lang": [
+                "ru"
+            ],
+            "deadline": "2019-09-07",
+            "original_text_preview": "Just like the meat at most conferences is to be found in the lobbies and lunch-time chats, many of our most important lessons are learned outside the classroom. Our morals and beliefs are shaped by parents and authority figures, we find our way in the world through the company we keep, and we grasp human nature through books and film.\r\n\r\nOf course, a formal education is essential, but there is much to be said for sup",
+            "original_text": "4.json"
+        },
+        {
+            "id": 5,
+            "status": "new",
+            "client": "Юридическая фирма «Право»",
+            "executor": "info@yandex.ru",
+            "original_lang": "ru",
+            "translation_lang": {
+                "1": "en",
+                "2": "de"
+            },
+            "deadline": "2019-09-10",
+            "original_text_preview": "Кредит во многих случаях является лучшим (или единственным) способом решения проблем, например, ипотека – популярный вариант улучшения своих жилищных условий (с учетом уровня дохода и цен на недвижимость). Однако случается, что кредит составляет большую сумму и берется на длительный срок под высокие проценты, а ситуация с семейным бюджетом складывается не лучшим образом, ежемесячные взносы съедают большую часть доход",
+            "original_text": "5.json"
+        }
+    ]

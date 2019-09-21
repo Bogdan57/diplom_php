@@ -3,6 +3,5 @@ class Config
 {
     const DATABASE_PATH = './database/';
     const FILES_PATH = './database/files/';
-    const COOKIE_LIFE_TIME = 86400; // сутки
-    const TITLE = 'Информационная система «Бюро переводов»';
+    const COOKIE_LIFE_TIME = 86400;
 }

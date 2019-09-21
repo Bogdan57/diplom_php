@@ -39,5 +39,5 @@ if (isset($_POST['client'])) {
     $jsonFileAccessModel2 = new JsonFileAccessModel($next_id, $_POST['original_lang']);
     $jsonFileAccessModel2->write($_POST['text']);
 
-    header('Location: index.php');  
+
 }

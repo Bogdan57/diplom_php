@@ -5,7 +5,7 @@ class User
     private $logged = false;
     public $login;
     public $name;
-    public $role;
+    public $status;
 
     public function __construct($session_data = null) 
     {

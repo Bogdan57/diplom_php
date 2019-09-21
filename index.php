@@ -1,6 +1,5 @@
 <?php
     require 'autoload.php';
-
     session_start();
     $user = new User($_SESSION);
 ?>
@@ -19,13 +18,10 @@
 <body>
     <?php 
     if ($user->isLogined()) {
-        include 'admin_panel.php';
+        include 'admin.php';
     } else {
         include 'login_form.php';
     }
     ?>
-    <footer class="<?=($user->isLogined()) ? 'footer footer-inner' : 'footer' ?>">
-        <p>© Дмитрий Портнов, BPHP-4, 2019</p>
-    </footer>
 </body>
 </html>

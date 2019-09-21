@@ -18,4 +18,3 @@ if (isset($_POST['login']) && isset($_POST['password'])) {
     }
 }
 
-header('Location: index.php');

@@ -28,10 +28,10 @@ if (isset($_SESSION['login']) || isset($_COOKIE['login'])) {
                     <a href="index.php?filter=resolved">На проверке</a>
                 </li>
                 <li class="<?=(preg_match('/filter=rejected/', $_SERVER['REQUEST_URI']) == 1) ? 'filter-item filter-item_active' : 'filter-item' ?>">
-                    <a href="index.php?filter=rejected">Отклонённые</a>
+                    <a href="index.php?filter=rejected">На доработке</a>
                 </li>
                 <li class="<?=(preg_match('/filter=done/', $_SERVER['REQUEST_URI']) == 1) ? 'filter-item filter-item_active' : 'filter-item' ?>">
-                    <a href="index.php?filter=done">Выполненные</a>
+                    <a href="index.php?filter=done">Готовые</a>
                 </li>
             </ul>
         </div>

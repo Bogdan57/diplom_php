@@ -1,30 +1,30 @@
 [
     {
         "id": 1,
-        "name": "Иван Иванов",
-        "login": "test@test.ru",
+        "name": "ivanov",
+        "login": "inan@mail.ru",
         "password": "12345",
-        "role": "manager"
+        "role": "admin"
     },
     {
         "id": 2,
-        "name": "Василий Быстров",
-        "login": "mail@mail.ru",
-        "password": "qwerty",
+        "name": "ivanova",
+        "login": "ivanova@mail.ru",
+        "password": "ivanova",
         "role": "translator"
     },
     {
         "id": 3,
-        "name": "Мария Петрова",
-        "login": "info@yandex.ru",
-        "password": "abcde",
+        "name": "petrova",
+        "login": "rrrrrrr@yandex.ru",
+        "password": "petrova",
         "role": "translator"
     },
     {
         "id": 4,
-        "name": "Елена Сидорова",
-        "login": "pochta@gmail.com",
+        "name": "volkov",
+        "login": "volk@mail.com",
         "password": "mhd5nd",
-        "role": "translator"
+        "role": "volk"
     }
 ]
