@@ -5,3 +5,4 @@ setcookie('name', $_SESSION['name'], time() - 100);
 setcookie('role', $_SESSION['role'], time() - 100);
 session_destroy();
 
+////
